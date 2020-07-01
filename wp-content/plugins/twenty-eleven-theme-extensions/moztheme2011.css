@@ -1,0 +1,14 @@
+.moz-widget-list-adjust .widget-area ul {list-style: square outside none;padding-left: 1em;}
+.moz-widget-list-adjust #primary {margin-right: -28.2%;}
+.moz-widget-list-adjust #secondary {width: 20.3%;}
+.left-sidebar.moz-widget-list-adjust #primary {margin-left: -28.2%;margin-right: 0;}
+.left-sidebar.moz-widget-list-adjust #secondary {margin-left: 5.7%;}
+.moz-sidebar-adjust .commentlist, #respond {width: 91.5%;}
+.moz-sidebar-adjust .commentlist {padding-left: 50px;}
+.moz-nav-adjust #nav-single {float: none;text-align: center;}
+.moz-headline.sticky {padding: 0;}
+.moz-headline.sticky .entry-content, .moz-headline.sticky .entry-meta, .moz-headline.sticky .entry-format, .moz-headline.sticky .comments-link {display: none;}
+.moz-headline.sticky .entry-title {text-align: center;padding: 0;}
+.moz-headline.sticky .entry-title a {color: blue;font-style: italic;font-size: 80%;}
+.moz-headline.sticky .headline-text {color: red;}
+*:first-child+html #access {margin-top: -6px;}
